@@ -1,0 +1,7 @@
+# Originales pesados y versiones anteriores: no se publican
+*.db
+*.csv
+olist_customers_dataset.csv/
+*_dashboard*.py
+__pycache__/
+.claude/
